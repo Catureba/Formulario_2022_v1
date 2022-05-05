@@ -1,0 +1,164 @@
+.progress_now{
+    background-color: #F7941E;
+    border-radius: 0 15px 15px 0 ;
+    width: 25%;
+}
+.progress{
+    background-color: #FDEAD2;
+    
+}
+.content_form legend h1{
+    font-size: 32px;
+    text-align: center;
+    color: #000;
+}
+#content_page{
+    padding: 150px 0 0px;
+}
+.form_box{
+    background-color: #fff;
+    margin-bottom: 50px;
+}
+form div {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 300;
+    color: #777;
+    margin-bottom: 10px;
+}
+#form_main {
+    
+}
+
+#form_01{
+    display: block;
+}
+#form_02{
+    display: none;
+}
+
+#form_03{
+    display: none;
+}
+
+.box{
+    margin: 40px 0 0 0 ;
+}
+
+#submit{
+    display: none;
+}
+
+.input-estado-civil div{
+    padding: 0px 10px;
+    border-radius: 15px;
+}
+
+.input_hor{
+    color: #F7941E;
+    margin-left: 15px;
+    border: none;
+    border-bottom:2px solid #000 ;
+    text-decoration: none;
+}
+input{
+    text-align: center;
+}
+textarea:focus, input:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+    }
+#aviso_de_cookies{
+    font-size: 16px;
+    text-align: center;
+}
+.conteiner_botao_continuar{
+    margin-top: 125px;
+    text-align: center;
+}
+.botao_continuar{
+    font-size: 16px;
+    font-weight: 500;
+    width: 120px;
+    height: 50px;
+    color: #fff;
+    background-color: #F7941E;
+    border: 2px solid #fff;
+    border-radius: 50px;
+}
+.botao_continuar:hover{
+    font-size: 16px;
+    font-weight: 500;
+    padding: 5px 20px;
+    color: #F7941E;
+    background-color: #fff;
+    border: 2px solid #F7941E;
+    border-radius: 50px;
+}
+a{
+    color: #777;
+}
+
+#form_02 label{
+    display: block;
+}
+#form_02 input{
+    display: block;
+    margin: auto;
+    
+}
+
+.class-uso-carro{
+    font-size: 13px;
+    text-align: center;
+    color: #777;
+    background-color: #fff;
+    height: 100px;
+    width: 140px;
+    border: 1px solid #777;
+    border-radius: 15px;
+    padding: 10px 5px;
+    margin: 10px;
+    vertical-align: middle;
+
+    }
+#content-uso-carro{
+    
+    display: table;
+    width: 100%;
+    padding: 0 5%;
+}
+
+.checkbox{
+    
+    color: #777;
+    font-size: 13px;
+    text-align: center;
+    background-color: #fff;
+    height: 90px;
+    width: 140px;
+    border: 1px solid #777;
+    border-radius: 15px;
+    padding: 10px 5px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.checkbox:hover{
+    border: 2px solid #F7941E;
+    cursor: pointer;
+}
+.conteiner_checkbox{   
+    display: table;
+    width: 100%;
+    padding: 0 5%;
+}
+.display_inline_block{
+    cursor: pointer;
+    margin: 0 10px;
+    font-weight: 600;
+    display: inline-block;
+}
+#display-cep {
+    display: none;
+}
